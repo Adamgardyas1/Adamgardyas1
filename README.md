@@ -6,10 +6,10 @@ Depending on the role, I can leverage deep analytical skills to evaluate busines
 
 ---
 
-### 🎯 Core Focus Areas
+### Core Focus Areas
 
 #### 💼 Path 1: Financial & Business Analytics
-I enjoy working with financial data, building business models, and creating reports that support strategic decision-making.
+I enjoy working with financial data, building business models, and creating reports.
 * **Focus:** Financial Statement Analysis, Budgeting, Forecasting, KPI Tracking
 * **Key Tools:** MS Excel, SQL, Power Query
 
@@ -20,9 +20,9 @@ I build Machine Learning models, analyze complex datasets, and work with modern 
 
 ---
 
-### 🧰 Technical Skills & Tools
+### Technical Skills & Tools
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -30,27 +30,27 @@ I build Machine Learning models, analyze complex datasets, and work with modern 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-#### 🤖 Classical Machine Learning
+#### Classical Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Regression-008080?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Regression" />
   <img src="https://img.shields.io/badge/Classification-028A0F?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Classification" />
 </p>
 
-#### 🧠 Deep Learning & GenAI
+#### Deep Learning & GenAI
 <p align="left">
   <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/CNN_%26_Computer_Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="CNN" />
   <img src="https://img.shields.io/badge/LLMs_%26_GenAI-FFD21E?style=for-the-badge&logo=openai&logoColor=black" alt="LLM" />
 </p>
 
-#### 📊 Data Analytics & BI
+#### Data Analytics & BI
 <p align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />
 </p>
 
-#### ☁️ Cloud & Infrastructure
+#### Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
@@ -58,7 +58,7 @@ I build Machine Learning models, analyze complex datasets, and work with modern 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-#### 🌐 Spoken Languages
+#### Spoken Languages
 * 🇵🇱 **Polish:** Native
 * 🇬🇧 **English:** C1 (Professional)
 
