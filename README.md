@@ -54,4 +54,4 @@ I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw 
 
 ### 📫 Connect with me
 
-- 📧 **Email:** [adamgardyas@gmail.com](adamgardyas@gmail.com)
+- 📧 **Email:** <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamgardyas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> (`adamgardyas@gmail.com`)
