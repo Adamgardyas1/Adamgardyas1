@@ -67,8 +67,3 @@ I build Machine Learning models, analyze complex datasets, and work with modern 
 ### 📫 Connect with me
 
 **Email:** <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamgardyas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-
----
-### 😼 Current Mood
-![Data Science Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4Z3R5/v1.Y2lkPTc5MGI3NjEx/giphy.gif)
-*Me trying to debug code at 2 AM.*
