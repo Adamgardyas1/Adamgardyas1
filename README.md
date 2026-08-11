@@ -1,10 +1,22 @@
-# Hi there! 👋 
+# Hi there! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adamgardyas1&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views counter" />
-</p>
+I combine skills in **Financial Analytics** and **Data Science**. 
 
-I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw data into actionable insights and intelligent solutions. I am actively building my portfolio, expanding my skills in Machine Learning, and looking for opportunities to grow in the AI field.
+Depending on the role, I can leverage deep analytical skills to evaluate business performance or apply modern programming and Machine Learning tools to build data-driven solutions.
+
+---
+
+### 🎯 Core Focus Areas
+
+#### 💼 Path 1: Financial & Business Analytics
+I enjoy working with financial data, building business models, and creating reports that support strategic decision-making.
+* **Focus:** Financial Statement Analysis, Budgeting, Forecasting, KPI Tracking
+* **Key Tools:** MS Excel, Power Query, Tableau, SQL
+
+#### 🤖 Path 2: AI & Data Science
+I build Machine Learning models, analyze complex datasets, and work with modern AI architectures.
+* **Focus:** Regression & Classification, Natural Language Processing (NLP), Computer Vision (CNN), LLMs
+* **Key Tools:** Python, R, C++, AWS, Google Cloud, Git
 
 ---
 
