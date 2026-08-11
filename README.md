@@ -6,12 +6,6 @@ Depending on the role, I can leverage deep analytical skills to evaluate busines
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adamgardyas1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 ### Core Focus Areas
 
 #### 💼 Path 1: Financial & Business Analytics
@@ -73,3 +67,10 @@ I build Machine Learning models, analyze complex datasets, and work with modern 
 ### 📫 Connect with me
 
 **Email:** <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamgardyas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adamgardyas1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
