@@ -11,12 +11,12 @@ Depending on the role, I can leverage deep analytical skills to evaluate busines
 #### 💼 Path 1: Financial & Business Analytics
 I enjoy working with financial data, building business models, and creating reports.
 * **Focus:** Financial Statement Analysis, Budgeting, Forecasting, KPI Tracking
-* **Key Tools:** MS Excel, SQL, Power Query
+* **Key Tools:** MS Excel, SQL
 
 #### 🤖 Path 2: AI & Data Science
 I build Machine Learning models, analyze complex datasets, and work with modern AI architectures.
 * **Focus:** Regression & Classification, Natural Language Processing (NLP), Computer Vision (CNN), LLMs
-* **Key Tools:** Python, R, C++, Google Cloud, Git
+* **Key Tools:** Python, R, Git
 
 ---
 
