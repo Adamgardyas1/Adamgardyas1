@@ -10,9 +10,9 @@ I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw 
 
 ### 🛠️ My Journey & Current Focus
 
-- 🔭 **I’m currently working on:** Personal portfolio projects focused on **Data Science & AI** to solve real-world problems.
-- 🌱 **I’m currently learning:** Deep learning concepts, neural network architectures, and advanced data analytics.
-- ⚡ **My goals:** Landing a junior role or internship where I can apply my machine learning knowledge and contribute to a team.
+-  **I’m currently working on:** Personal portfolio projects focused on **Data Science & AI** to solve real-world problems.
+-  **I’m currently learning:** Deep learning concepts, neural network architectures, and advanced data analytics.
+-  **My goals:** Landing a junior role or internship where I can apply my machine learning knowledge and contribute to a team.
 
 ---
 
