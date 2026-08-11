@@ -54,4 +54,4 @@ I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw 
 
 ### 📫 Connect with me
 
-- 📧 **Email:** [adamgardyas@gmail.com](mailto:adamgardyas@gmail.com)
+- 📧 **Email:** [adamgardyas@gmail.com](adamgardyas@gmail.com)
