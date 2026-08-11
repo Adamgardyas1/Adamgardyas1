@@ -1,56 +1,21 @@
 # Hi there! 👋
 
-<p align="left">
-  <img src="https://komarev.com" alt="Profile views counter" />
-</p>
+![Licznik](https://komarev.com)
 
-I am passionate about extracting insights from data and building intelligent solutions using Machine Learning and Artificial Intelligence. I am constantly expanding my expertise in data analytics, automation, and predictive modeling.
-
----
-
-### 🛠️ Current Focus & Projects
-
-- 🔭 **I’m currently working on:** Advanced projects focused on **Data Science & AI** (predictive models, data analytics).
-- 🌱 **I’m currently learning:** Modern neural network architectures and Large Language Model (LLM) optimization.
-- ⚡ **My goals:** Applying machine learning algorithms to solve complex challenges.
+I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw data into actionable insights and intelligent solutions.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- SQL -->
-  <img src="https://shields.io" alt="SQL" />
-  <!-- Pandas -->
-  <img src="https://shields.io" alt="Pandas" />
-  <!-- NumPy -->
-  <img src="https://shields.io" alt="NumPy" />
-</p>
+![Python](https://shields.io) ![SQL](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io)
 
-<p align="left">
-  <!-- Scikit-Learn -->
-  <img src="https://shields.io" alt="Scikit-Learn" />
-  <!-- TensorFlow -->
-  <img src="https://shields.io" alt="TensorFlow" />
-  <!-- PyTorch -->
-  <img src="https://shields.io" alt="PyTorch" />
-  <!-- Hugging Face -->
-  <img src="https://shields.io" alt="Hugging Face" />
-</p>
+![Scikit-Learn](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+![Statystyki](https://vercel.app)
 
----
-
-### 📫 Connect with me
-
-- 📧 **Email:** adamgardyas@gmail.com
+![Języki](https://vercel.app)
