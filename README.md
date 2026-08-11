@@ -36,10 +36,12 @@ I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw 
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.pw/api?username=Adamgardyas1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adamgardyas1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.pw/api/top-langs/?username=Adamgardyas1&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adamgardyas1&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
