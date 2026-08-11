@@ -16,27 +16,40 @@ I am an aspiring Data Scientist and AI enthusiast, passionate about turning raw 
 
 ---
 
-### 🧰 Tech Stack & Tools
-
+#### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
+#### 🤖 Machine Learning & AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Regression_%26_Classification-008080?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Regression & Classification" />
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/CNN_%26_Computer_Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="CNN" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Generative_AI-FFD21E?style=for-the-badge&logo=openai&logoColor=black" alt="LLM" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamgardyas1&theme=tokyonight&no-frame=true&no-background=true" alt="GitHub Trophies" />
+#### ☁️ Data Analytics & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />
 </p>
+
+#### ⚙️ Tools & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+#### 🌐 Languages
+* 🇵🇱 **Polish:** Native
+* 🇬🇧 **English:** C1 (Professional)
 
 ---
 
