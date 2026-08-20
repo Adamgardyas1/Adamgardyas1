@@ -1,21 +1,21 @@
 # Hi there! 👋
 
-I combine skills in **Financial Analytics** and **Data Science**. 
+Data & AI enthusiast bridging the gap between **Business Analytics** and **Data Science**. 
 
-Depending on the role, I can leverage deep analytical skills to evaluate business performance or apply modern programming and Machine Learning tools to build data-driven solutions.
+Driven by working with complex datasets, I use business analytics to evaluate performance and deploy Machine Learning models to build scalable solutions.
 
 ---
 
 ### Core Focus Areas
 
-#### 💼 Path 1: Financial & Business Analytics
-I enjoy working with financial data, building business models, and creating reports.
-* **Focus:** Financial Statement Analysis, Budgeting, Forecasting, KPI Tracking
+#### 📊 Path 1: Business & Operational Analytics
+I analyze operational datasets and construct predictive business models.
+* **Focus:** Business Performance Tracking, Process Optimization, KPI Reporting, Data Management
 * **Key Tools:** MS Excel, SQL
 
 #### 🤖 Path 2: AI & Data Science
-I build Machine Learning models, analyze complex datasets, and work with modern AI architectures.
-* **Focus:** Regression & Classification, Natural Language Processing (NLP), Computer Vision (CNN), LLMs
+I design end-to-end Machine Learning pipelines, process unstructured data, and build AI solutions.
+* **Focus:** Predictive Modeling (Regression & Classification), Natural Language Processing (NLP), Computer Vision (CNN), LLMs
 * **Key Tools:** Python, R, Git
 
 ---
